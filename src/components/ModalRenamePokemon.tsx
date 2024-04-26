@@ -1,4 +1,3 @@
-import { PokemonDetailInterface } from '@/interfaces/pokemon-detail.interface';
 import { MyPokemonRepository } from '@/repository/my-pokemon.repository';
 import { useMyPokemonStore } from '@/store/my-pokemon.store';
 import { Modal, Stack, TextInput, Button } from '@mantine/core';
